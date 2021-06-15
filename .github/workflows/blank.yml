@@ -27,12 +27,12 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: npm install
-        run: cd todortk \
-            npm install
+        run: npm install
+        working-directory: /todortk
 
       - name: npm build
-        run: cd todortk \
-            npm run build
+        run: npm run build
+        working-directory: /todortk
 
       # Runs a set of commands using the runners shell
       - name: deploy
@@ -40,6 +40,6 @@ jobs:
           AWS_ACCESS_KEY_ID: '$'
           AWS_SECRET_ACCESS_KEY: '$'
         run: |
-          aws s3 cp --recursive --region ap-northeast-2 dist s3://s3-todolist/todortk
+          aws s3 cp --recursive --region ap-northeast-2 dist s3://s3-todolist
    
 
