@@ -67,7 +67,7 @@
         <ul class="ma-2">
           <li>헬스케어 앱 EZFit 개발</li>
           <li>앱 전용 API 서버 개발</li>
-          <li>Notion을 활용한 문서화, Github 관리 등 담당</li>
+          <li>Notion을 활용한 문서화, Github 관리 담당</li>
         </ul>
       </div>
       <div>자세한 내용은 <a href="https://www.notion.so/d40739aa0d284cc897348405634a366c">Notion</a>에서 더 보실 수 있어요!</div>
