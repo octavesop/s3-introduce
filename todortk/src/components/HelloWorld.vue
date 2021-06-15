@@ -66,7 +66,7 @@
         <div class="ml-3">2020.11 ~ 2021.05</div>
         <ul class="ma-2">
           <li>헬스케어 앱 EZFit 개발</li>
-          <li>API 서버 개발</li>
+          <li>앱 전용 API 서버 개발</li>
           <li>Notion을 활용한 문서화, Github 관리 등 담당</li>
         </ul>
       </div>
