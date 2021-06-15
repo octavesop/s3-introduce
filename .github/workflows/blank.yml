@@ -41,5 +41,6 @@ jobs:
           AWS_SECRET_ACCESS_KEY: '$'
         run: |
           aws s3 cp --recursive --region ap-northeast-2 dist s3://s3-todolist
+        working-directory: /home/runner/work/s3-todolist/s3-todolist/todortk
    
 
