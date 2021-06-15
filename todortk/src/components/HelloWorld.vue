@@ -67,8 +67,6 @@
         <ul class="ma-2">
           <li>헬스케어 앱 EZFit 개발</li>
           <li>API 서버 개발</li>
-          <li>DB 설계 및 구축</li>
-          <li>AWS EC2를 활용한 운영 환경 구축 및 관리</li>
           <li>Notion을 활용한 문서화, Github 관리 등 담당</li>
         </ul>
       </div>
